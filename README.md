@@ -15,13 +15,13 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -37,5 +37,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2024 01:17:48 UTC
+ Last Updated on 12/12/2024 01:17:30 UTC
 <!--END_SECTION:waka-->
