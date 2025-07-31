@@ -15,13 +15,15 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               27 mins             ██████████████░░░░░░░░░░░   57.32 % 
+Markdown                 20 mins             ███████████░░░░░░░░░░░░░░   42.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -37,5 +39,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:43:05 UTC
+ Last Updated on 31/07/2025 01:41:44 UTC
 <!--END_SECTION:waka-->
