@@ -1,29 +1,4 @@
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-🌆 Daytime                801 commits         █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌃 Evening                885 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
-🌙 Night                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -37,5 +12,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 01:19:04 UTC
+ Last Updated on 20/09/2025 01:15:39 UTC
 <!--END_SECTION:waka-->
