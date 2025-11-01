@@ -15,15 +15,13 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-YAML                     4 mins              ████████████████████████░   97.71 % 
-sshconfig                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              ████████████████████████░   97.71 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -39,5 +37,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 01:22:21 UTC
+ Last Updated on 01/11/2025 01:26:31 UTC
 <!--END_SECTION:waka-->
