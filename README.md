@@ -15,13 +15,15 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             ████████████████████████░   96.22 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -37,5 +39,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2026 02:02:32 UTC
+ Last Updated on 23/02/2026 02:03:04 UTC
 <!--END_SECTION:waka-->
