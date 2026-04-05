@@ -15,16 +15,13 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               13 mins             ██████████░░░░░░░░░░░░░░░   39.06 % 
-Markdown                 8 mins              ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-SQL                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -40,5 +37,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2026 02:02:44 UTC
+ Last Updated on 05/04/2026 02:16:02 UTC
 <!--END_SECTION:waka-->
