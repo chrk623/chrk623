@@ -2,10 +2,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-🌆 Daytime                1211 commits        █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌃 Evening                1161 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+🌞 Morning                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                1211 commits        █████████░░░░░░░░░░░░░░░░   36.22 % 
+🌃 Evening                1164 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌙 Night                  568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 ```
 
 
@@ -15,31 +15,31 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               3 hrs 19 mins       █████████████████░░░░░░░░   68.47 % 
-Markdown                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-R                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TypeScript               3 hrs 53 mins       ██████████████████░░░░░░░   70.02 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+R                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 50 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-R                        13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+R                        13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 08/05/2026 02:48:04 UTC
+ Last Updated on 09/05/2026 02:42:38 UTC
 <!--END_SECTION:waka-->
