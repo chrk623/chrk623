@@ -2,10 +2,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-🌆 Daytime                1035 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
-🌃 Evening                1079 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  597 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+🌞 Morning                385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌆 Daytime                1041 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌃 Evening                1081 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
+🌙 Night                  597 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
 
 
@@ -15,17 +15,17 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
-TypeScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Text                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+TypeScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 59 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,5 +41,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:29:47 UTC
+ Last Updated on 25/07/2026 02:28:09 UTC
 <!--END_SECTION:waka-->
