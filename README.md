@@ -15,17 +15,17 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-TypeScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+TypeScript               1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-Cursor                   8 hrs               █████████████████████████   100.00 % 
+Cursor                   6 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs               █████████████████████████   100.00 % 
+Linux                    6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,5 +41,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:28:09 UTC
+ Last Updated on 26/07/2026 02:34:32 UTC
 <!--END_SECTION:waka-->
