@@ -17,39 +17,37 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ██████████████████████░░░   88.85 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               2 hrs 30 mins       ███████████████████████░░   92.58 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Cursor                   1 hr 54 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (85.8%)
+⏱ AI Coding Time: 1 hr 52 mins (69.17%)
 
-✍️ 2,268 lines written by AI, 14 lines written by hand (99.39% AI-written)
+✍️ 1,558 lines written by AI, 17 lines written by hand (98.92% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $4.45 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 33 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 12 AI Sessions, 32 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📄 Detailed Prompter — average 945 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.65% of changed lines were hand-edited
+🤖 AI-Driven — 98.92% of written lines came from AI
+📝 Concise Prompter — average 220 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +63,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 02:33:50 UTC
+ Last Updated on 03/08/2026 02:35:50 UTC
 <!--END_SECTION:waka-->
