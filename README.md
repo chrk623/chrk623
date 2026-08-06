@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,37 +17,37 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               2 hrs 59 mins       ███████████████████████░░   92.49 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               2 hrs 28 mins       ███████████████████████░░   93.30 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 14 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (59.93%)
+⏱ AI Coding Time: 1 hr 28 mins (55.37%)
 
-✍️ 1,568 lines written by AI, 22 lines written by hand (98.62% AI-written)
+✍️ 1,544 lines written by AI, 16 lines written by hand (98.97% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 34 AI Prompts
+🧠 10 AI Sessions, 24 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📝 Concise Prompter — average 216 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.46% of changed lines were hand-edited
+🤖 AI-Driven — 98.97% of written lines came from AI
+📝 Concise Prompter — average 266 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:14:47 UTC
+ Last Updated on 06/08/2026 02:23:20 UTC
 <!--END_SECTION:waka-->
