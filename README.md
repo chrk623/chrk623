@@ -17,37 +17,39 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               32 mins             █████████████████████████   99.40 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               1 hr 26 mins        █████████████████░░░░░░░░   66.90 % 
+Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Cursor                   24 mins             ███████████████████░░░░░░   74.24 % 
-Agent                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Cursor                   1 hr 31 mins        ██████████████████░░░░░░░   71.16 % 
+Agent                    37 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (99.52%)
+⏱ AI Coding Time: 1 hr 44 mins (81.18%)
 
-✍️ 41 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 476 lines written by AI, 14 lines written by hand (97.14% AI-written)
 
-🔤 159 Input Tokens, 159 Output Tokens
+🔤 46,910 Input Tokens, 46,910 Output Tokens
 
-💵 $0.10 Estimated AI Cost This Week
+💵 $0.94 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 15 AI Sessions, 60 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.14% of written lines came from AI
+📚 Verbose Prompter — average 3,177 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +65,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:05:39 UTC
+ Last Updated on 23/08/2026 01:10:41 UTC
 <!--END_SECTION:waka-->
