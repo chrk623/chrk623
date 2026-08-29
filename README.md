@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌆 Daytime                1066 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-🌃 Evening                1105 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌙 Night                  630 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+🌞 Morning                393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+🌆 Daytime                1066 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
+🌃 Evening                1105 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌙 Night                  631 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 
 
@@ -17,41 +17,41 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
-TypeScript               53 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
-R                        32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.25 % 
+Markdown                 1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   38.02 % 
+R                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 1 min         ██████████████████░░░░░░░   72.85 % 
-Agent                    45 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Cursor                   3 hrs 34 mins       █████████████████░░░░░░░░   67.84 % 
+Agent                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
 
 💻 Operating System: 
-Linux                    2 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (74.45%)
+⏱ AI Coding Time: 4 hrs 8 mins (78.83%)
 
-✍️ 489 lines written by AI, 156 lines written by hand (75.81% AI-written)
+✍️ 914 lines written by AI, 184 lines written by hand (83.24% AI-written)
 
-🔤 104,623 Input Tokens, 104,623 Output Tokens
+🔤 212,588 Input Tokens, 212,588 Output Tokens
 
-💵 $1.98 Estimated AI Cost This Week
+💵 $3.92 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 87 AI Prompts
+🧠 32 AI Sessions, 156 AI Prompts
 
-Grok                     2 lines             █████████████████████████   100.00 % 
+Grok                     126 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.81% of written lines came from AI
-📚 Verbose Prompter — average 4,852 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 23.66% of changed lines were hand-edited
+🤖 AI-Driven — 83.24% of written lines came from AI
+📚 Verbose Prompter — average 5,495 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +67,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:30:14 UTC
+ Last Updated on 29/08/2026 05:37:41 UTC
 <!--END_SECTION:waka-->
