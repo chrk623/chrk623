@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,41 +17,41 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.25 % 
-Markdown                 1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   38.02 % 
-R                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   40.54 % 
+Markdown                 1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
+R                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 34 mins       █████████████████░░░░░░░░   67.84 % 
-Agent                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Cursor                   2 hrs 52 mins       █████████████████░░░░░░░░   68.46 % 
+Agent                    1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.54 % 
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 8 mins (78.83%)
+⏱ AI Coding Time: 3 hrs 10 mins (75.68%)
 
-✍️ 914 lines written by AI, 184 lines written by hand (83.24% AI-written)
+✍️ 479 lines written by AI, 196 lines written by hand (70.96% AI-written)
 
-🔤 212,588 Input Tokens, 212,588 Output Tokens
+🔤 180,518 Input Tokens, 180,518 Output Tokens
 
-💵 $3.92 Estimated AI Cost This Week
+💵 $3.34 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 156 AI Prompts
+🧠 25 AI Sessions, 124 AI Prompts
 
 Grok                     126 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.24% of written lines came from AI
-📚 Verbose Prompter — average 5,495 characters per prompt
+🤖 AI-Driven — 70.96% of written lines came from AI
+📚 Verbose Prompter — average 5,857 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 16.87% of changed lines were hand-edited
+🚀 High AI Trust — 25.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +67,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 05:37:41 UTC
+ Last Updated on 30/08/2026 03:36:53 UTC
 <!--END_SECTION:waka-->
