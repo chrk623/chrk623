@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-🌆 Daytime                1070 commits        ████████░░░░░░░░░░░░░░░░░   32.10 % 
-🌃 Evening                1127 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌙 Night                  709 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌞 Morning                427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+🌆 Daytime                1070 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌃 Evening                1131 commits        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌙 Night                  716 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
 ```
 
 
@@ -17,41 +17,42 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       ████████████████████░░░░░   78.27 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               9 hrs 35 mins       ████████████████████░░░░░   81.74 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 41 mins       ██████████████████████░░░   89.68 % 
-Agent                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Cursor                   10 hrs 50 mins      ███████████████████████░░   92.33 % 
+Agent                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    6 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (80.39%)
+⏱ AI Coding Time: 9 hrs 44 mins (82.97%)
 
-✍️ 2,865 lines written by AI, 292 lines written by hand (90.75% AI-written)
+✍️ 4,373 lines written by AI, 881 lines written by hand (83.23% AI-written)
 
-🔤 33,394 Input Tokens, 33,394 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.60 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 107 AI Prompts
+🧠 51 AI Sessions, 176 AI Prompts
 
 Grok                     912 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.75% of written lines came from AI
-📄 Detailed Prompter — average 1,403 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.58% of changed lines were hand-edited
+🤖 AI-Driven — 83.23% of written lines came from AI
+📝 Concise Prompter — average 204 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 27.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +68,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 03:58:15 UTC
+ Last Updated on 01/10/2026 04:08:56 UTC
 <!--END_SECTION:waka-->
