@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-236%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%201%20min-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,42 +17,43 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               7 hrs 58 mins       ██████████████████░░░░░░░   72.59 % 
-Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               9 hrs 41 mins       █████████████████░░░░░░░░   69.95 % 
+Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Cursor                   10 hrs              ███████████████████████░░   91.03 % 
-Agent                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Cursor                   11 hrs 58 mins      ██████████████████████░░░   86.48 % 
+Agent                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Codex Vscode             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Linux                    10 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (84.51%)
+⏱ AI Coding Time: 12 hrs 5 mins (87.29%)
 
-✍️ 3,975 lines written by AI, 606 lines written by hand (86.77% AI-written)
+✍️ 5,259 lines written by AI, 605 lines written by hand (89.68% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 167,109 Input Tokens, 23,044 Output Tokens
 
-💵 $0.23 Estimated AI Cost This Week
+💵 $4.00 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 155 AI Prompts
+🧠 67 AI Sessions, 238 AI Prompts
 
-Grok                     912 lines           █████████████████████████   100.00 % 
+Grok                     912 lines           ████████████████████░░░░░   80.35 % 
+GPT                      223 lines           █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.77% of written lines came from AI
-📝 Concise Prompter — average 213 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 25.44% of changed lines were hand-edited
+🤖 AI-Driven — 89.68% of written lines came from AI
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 20.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,5 +69,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 04:02:56 UTC
+ Last Updated on 03/10/2026 03:47:47 UTC
 <!--END_SECTION:waka-->
