@@ -17,43 +17,43 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               9 hrs 41 mins       █████████████████░░░░░░░░   69.95 % 
-Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               10 hrs 39 mins      █████████████████░░░░░░░░   69.43 % 
+Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 58 mins      ██████████████████████░░░   86.48 % 
-Agent                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Codex Vscode             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Cursor                   12 hrs 31 mins      ████████████████████░░░░░   81.61 % 
+Codex Vscode             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Agent                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Linux                    13 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (87.29%)
+⏱ AI Coding Time: 13 hrs 35 mins (88.47%)
 
-✍️ 5,259 lines written by AI, 605 lines written by hand (89.68% AI-written)
+✍️ 6,190 lines written by AI, 894 lines written by hand (87.38% AI-written)
 
-🔤 167,109 Input Tokens, 23,044 Output Tokens
+🔤 988,760 Input Tokens, 97,128 Output Tokens
 
-💵 $4.00 Estimated AI Cost This Week
+💵 $20.03 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 238 AI Prompts
+🧠 77 AI Sessions, 263 AI Prompts
 
-Grok                     912 lines           ████████████████████░░░░░   80.35 % 
-GPT                      223 lines           █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+GPT                      1,240 lines         ██████████████░░░░░░░░░░░   57.62 % 
+Grok                     912 lines           ███████████░░░░░░░░░░░░░░   42.38 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.68% of written lines came from AI
-📝 Concise Prompter — average 219 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.74% of changed lines were hand-edited
+🤖 AI-Driven — 87.38% of written lines came from AI
+📝 Concise Prompter — average 232 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 21.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,5 +69,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 04:17:56 UTC
+ Last Updated on 05/10/2026 04:02:18 UTC
 <!--END_SECTION:waka-->
