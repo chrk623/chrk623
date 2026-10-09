@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,19 +17,19 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
-Python                   3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+TypeScript               5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
+Python                   3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.12 % 
-Agent                    4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-Codex Vscode             2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Cursor                   5 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+Agent                    4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
+Codex Vscode             2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 
 💻 Operating System: 
-Linux                    13 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -45,5 +45,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 04:29:52 UTC
+ Last Updated on 09/10/2026 04:33:52 UTC
 <!--END_SECTION:waka-->
