@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-🌆 Daytime                1070 commits        ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                1132 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-🌙 Night                  740 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌞 Morning                463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+🌆 Daytime                1102 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌃 Evening                1151 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌙 Night                  754 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
 ```
 
 
@@ -17,19 +17,19 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       ██████████████░░░░░░░░░░░   56.81 % 
-TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python                   3 hrs 3 mins        ██████████████░░░░░░░░░░░   56.98 % 
+TypeScript               1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Agent                    4 hrs 12 mins       █████████████████░░░░░░░░   67.68 % 
-Cursor                   1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Codex Vscode             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Agent                    4 hrs 27 mins       █████████████████████░░░░   83.02 % 
+Cursor                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -45,5 +45,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 04:19:12 UTC
+ Last Updated on 13/10/2026 05:28:20 UTC
 <!--END_SECTION:waka-->
