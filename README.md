@@ -17,19 +17,17 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               45 mins             ███████████████████░░░░░░   75.34 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               17 mins             ██████████████████████░░░   88.67 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Image (png)              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Agent                    57 mins             ████████████████████████░   95.46 % 
-Codex Vscode             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Agent                    17 mins             ██████████████████████░░░   86.32 % 
+Codex Vscode             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -45,5 +43,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 03:31:24 UTC
+ Last Updated on 15/10/2026 03:10:57 UTC
 <!--END_SECTION:waka-->
