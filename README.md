@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2032%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -17,17 +15,19 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               17 mins             ██████████████████████░░░   88.67 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Image (png)              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+TypeScript               1 hr 24 mins        █████████████░░░░░░░░░░░░   53.44 % 
+Markdown                 1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.03 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Agent                    17 mins             ██████████████████████░░░   86.32 % 
-Codex Vscode             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Agent                    2 hrs 32 mins       ████████████████████████░   96.16 % 
+Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -43,5 +43,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 12:48:42 UTC
+ Last Updated on 16/10/2026 03:07:00 UTC
 <!--END_SECTION:waka-->
