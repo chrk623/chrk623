@@ -15,19 +15,19 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               1 hr 24 mins        █████████████░░░░░░░░░░░░   53.44 % 
-Markdown                 1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.03 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               1 hr 49 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
+Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Python                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Agent                    2 hrs 32 mins       ████████████████████████░   96.16 % 
-Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Agent                    3 hrs 36 mins       ██████████████████████░░░   87.31 % 
+Cursor                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -43,5 +43,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:07:00 UTC
+ Last Updated on 17/10/2026 02:59:33 UTC
 <!--END_SECTION:waka-->
